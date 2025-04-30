@@ -204,11 +204,11 @@ case 2:
 
     if (resultado && resultado2)
     {
-        printf("Parabéns, você venceu!");
+        printf("Parabéns, você venceu!\n");
     }else if (resultado != resultado2){
-        printf("Empate!");
+        printf("Empate!\n");
     }else{
-        printf("Você perdeu!");
+        printf("Você perdeu!\n");
     }
 break;
     }
