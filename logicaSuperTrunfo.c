@@ -70,7 +70,7 @@ case 1:
         resultado = PIB > PIB2 ? 1 : 0;
         break;
     case 4:
-        resultado = pontosturisticos2 > pontosturisticos2 ? 1 : 0;
+        resultado = pontosturisticos > pontosturisticos2 ? 1 : 0;
         break;
     case 5:
         resultado = densidadep < densidadep2 ? 1 : 0;
